@@ -12,7 +12,7 @@ const Slider = ({ images }) => {
   let imageWidth;
   let current = 0;
   let target = 0;
-  let ease = 0.025;
+  let ease = 0.01;
 
   // linear extrapolation function
   const lerp = (start, end, t) => {
