@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "//Sandor996.github.io/react-slider/static/css/main.19621adc.css",
-    "main.js": "//Sandor996.github.io/react-slider/static/js/main.70dbbd64.js",
+    "main.js": "//Sandor996.github.io/react-slider/static/js/main.5fb96a99.js",
     "index.html": "//Sandor996.github.io/react-slider/index.html",
     "main.19621adc.css.map": "//Sandor996.github.io/react-slider/static/css/main.19621adc.css.map",
-    "main.70dbbd64.js.map": "//Sandor996.github.io/react-slider/static/js/main.70dbbd64.js.map"
+    "main.5fb96a99.js.map": "//Sandor996.github.io/react-slider/static/js/main.5fb96a99.js.map"
   },
   "entrypoints": [
     "static/css/main.19621adc.css",
-    "static/js/main.70dbbd64.js"
+    "static/js/main.5fb96a99.js"
   ]
 }
